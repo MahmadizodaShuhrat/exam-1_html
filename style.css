@@ -1,0 +1,85 @@
+       .boss {
+           background-color: red;
+           height: 50px;
+           box-shadow: 0 0 7px 1px black;
+           position: sticky;
+           top: 0;
+           width: 100%;
+           display: flex;
+           justify-content: space-around;
+           align-items: center;
+       }
+       
+       .boss a {
+           font-size: 30px;
+           padding: 20px 20px;
+           text-decoration: none;
+           color: aliceblue;
+       }
+       
+       .boss1 {
+           background-color: red;
+           text-align: center;
+           padding: 90px;
+       }
+       
+       .text1 {
+           font-size: 60px;
+       }
+       
+       .text2 {
+           font-size: 25px;
+       }
+       
+       .text3 {
+           background-color: darkolivegreen;
+           padding: 15px 40px;
+       }
+       
+       .text4 {
+           padding-left: 60px;
+           font-size: 40px;
+       }
+       
+       .text5 {
+           padding-left: 60px;
+       }
+       
+       .text6 {
+           padding-left: 60px;
+       }
+       
+       .langar1 {
+           display: flex;
+       }
+       
+       .bakal {
+           background-color: #f1f1f1 !important;
+           display: flex;
+           height: 500px;
+           justify-content: space-between;
+       }
+       
+       .bakal img {
+           width: 100%;
+           margin: 0px 10px;
+       }
+       
+       .bakal h1 {
+           margin-top: 80px;
+       }
+       
+       .text9 {
+           margin-top: 50px;
+           color: rgba(0, 0, 0, 0.356);
+       }
+       
+       .ohir {
+           background-color: cadetblue;
+           text-align: center;
+           padding: 80px;
+       }
+       
+       .raft {
+           display: flex;
+       }
